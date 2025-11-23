@@ -2,10 +2,12 @@
 <!-- slug: blue-nirvana-movibes -->
 <!-- title: Blue Nirvana - Movibes Streaming Platform -->
 <!-- description: Movie and series streaming platform web interface built with HTML, CSS, and JavaScript featuring dark mode design -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-movibes -->
+<!-- image: https://github.com/user-attachments/assets/8aaf3379-7c18-4a07-a052-565890104aed -->
 <!-- tags: html, css, javascript, streaming, movies, web-design, dark-mode -->
 
 # Blue Nirvana - Movibes Streaming Platform
+
+<img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/8aaf3379-7c18-4a07-a052-565890104aed" />
 
 A sleek movie and series streaming platform interface built with vanilla HTML, CSS, and JavaScript. Created by students from Pancasila University as a Web Design course project, featuring a modern dark mode aesthetic and intuitive user experience.
 
